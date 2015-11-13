@@ -1,0 +1,23 @@
+name: netter
+favicon: null
+layout_spectrum: 0.43706118036061525
+typography_spectrum: 0.46301120100542903
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.08462921972386539
+  lightness: 0.8588276731316
+  saturation: 0.595308685908094
+  rhythmicContrast: 0.49443649617023766
+purpose: []
